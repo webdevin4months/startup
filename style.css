@@ -33,3 +33,26 @@ header.showcase hr {
     margin-top: 120px;
     margin-bottom: 30px;
 }
+
+/* Button */
+
+.btn {
+    font-weight: 500;
+    border-radius: 300px;
+}
+
+.btn-primary {
+    background-color: #F05F44;
+    border-color: #F05F44;
+}
+
+.btn-primary:hover {
+    background-color: #EE4B08;
+    border-color: #EE4B08;
+    border-width: 5px;
+    cursor: pointer;
+}
+
+.btn-xl {
+    padding: 1rem 2rem;
+}
