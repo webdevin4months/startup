@@ -5,6 +5,10 @@ body {
     height: 100%;
 }
 
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
 header.showcase {
     background: url(header.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
@@ -54,5 +58,5 @@ header.showcase hr {
 }
 
 .btn-xl {
-    padding: 1rem 2rem;
+    padding: 1rem 1.8rem;
 }
