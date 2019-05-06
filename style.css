@@ -1,3 +1,4 @@
+/* main color:  #F05F44; */
 html,
 body {
     width: 100%;
@@ -19,4 +20,16 @@ header.showcase h1 {
 
 .faded {
     color: rgba(255, 255, 255, 0.8);
+}
+
+/* horizontal rule */
+hr {
+    max-width: 65px;
+    border-width: 3px;
+    border-color: #F05F44;
+}
+
+header.showcase hr {
+    margin-top: 120px;
+    margin-bottom: 30px;
 }
